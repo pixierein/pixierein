@@ -1,102 +1,89 @@
+<div align="center">
+  <img height="150" src="https://media.tenor.com/U3AnC1QUbmoAAAAj/needy-streamer-overload-nso.gif"  />
+</div>
+
+###
+
 <br clear="both">
 
+<h1 align="center">PixieRein</h1>
+
+###
+
+<p align="center">I am a freelance fullstack programmer, focusing on cybersecurity and web development.</p>
+
+###
+
 <div align="center">
-  <img height="250" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWZ3eWtiYmJnMDQ1dzl0ZDBhcXpxb2o0a3o3cmJid3JwNTk5czFvdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jHsu0xzB1JZhC7YDbV/giphy.gif"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="30" alt="lua logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="30" alt="vuejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=wasm" height="30" alt="webassembly logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/ruby/CC342D" height="30" alt="ruby logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/sqlite/003B57" height="30" alt="sqlite logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/swift/F05138" height="30" alt="swift logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/vite/646CFF" height="30" alt="vite logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=bots" height="30" alt="abbrobotstudio logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=bash" height="30" alt="bash logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cloudflare" height="30" alt="cloudflare logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vercel" height="30" alt="vercel logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=supabase" height="30" alt="supabase logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=planetscale" height="30" alt="planetscale logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=php" height="30" alt="php logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="30" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=idea" height="30" alt="intellijidea logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="30" alt="trello logo"  />
 </div>
 
 ###
 
-<h1 align="center">Fullstack Developer & Cybersecurity Researcher</h1>
-
-###
-
-<p align="center">System Status: ⚠️ |  Developer Drone  |  White/Grey Hat Developer</p>
-
-###
-
-<p align="center">──────────────────────── ✦ ────────────────────────</p>
-
-###
-
-<h3 align="center">🧩 What About Me? 🧩</h3>
-
-###
-
-<p align="center">Murder Drones Fan • Bots, APIs & Applications • Powered by Coffee</p>
-
-###
-
-<p align="center">──────────────────────── ✦ ────────────────────────</p>
-
-###
-
-<h3 align="center">💬 Fluent In</h3>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pixierein/pixierein/pacman-output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pixierein/pixierein/pacman-output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/pixierein/pixierein/pacman-output/pacman-contribution-graph.svg">
+</picture>
 
 ###
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="40" alt="swift logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=wasm" height="40" alt="webassembly logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40" alt="lua logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-</div>
-
-###
-
-<h3 align="center">📚 Learning</h3>
-
-###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" height="40" alt="electron logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="40" alt="ruby logo"  />
-</div>
-
-###
-
-<h3 align="center">──────────────────────── ✦ ────────────────────────</h3>
-
-###
-
-<h3 align="center">📊 GitHub Stats</h3>
-
-###
-
-
-###
-
-<h3 align="center">──────────────────────── ✦ ────────────────────────</h3>
-
-###
-
-<h3 align="center">📫 Contact Me</h3>
-
-###
-
-<div align="center">
-  <a href="https://x.com/reiifinn" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  </a>
-</div>
-
-###
-
-<div align="center">
-  <img src="https://count.getloli.com/@:hrborfin?theme=moebooru&padding=7&scale=1&align=top&pixelated=1&darkmode=auto"  />
+  <img src="https://count.getloli.com/@:pixierein?theme=rule34&padding=7&scale=1&align=top&pixelated=0&darkmode=auto"  />
 </div>
 
 ###
